@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\12.CharacterMultiplier\bin\Debug\12.CharacterMultiplier.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\12.CharacterMultiplier\bin\Debug\12.CharacterMultiplier.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\12.CharacterMultiplier\bin\Debug\12.CharacterMultiplier.pdb
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\12.CharacterMultiplier\obj\Debug\12.CharacterMultiplier.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\12.CharacterMultiplier\obj\Debug\12.CharacterMultiplier.pdb

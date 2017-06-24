@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\11.SemanticHTML\bin\Debug\11.SemanticHTML.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\11.SemanticHTML\bin\Debug\11.SemanticHTML.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\11.SemanticHTML\bin\Debug\11.SemanticHTML.pdb
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\11.SemanticHTML\obj\Debug\11.SemanticHTML.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\11.SemanticHTML\obj\Debug\11.SemanticHTML.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\11.SemanticHTML\obj\Debug\11.SemanticHTML.pdb

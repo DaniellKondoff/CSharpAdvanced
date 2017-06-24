@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\10.UseYourChainsBuddy\bin\Debug\10.UseYourChainsBuddy.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\10.UseYourChainsBuddy\bin\Debug\10.UseYourChainsBuddy.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\10.UseYourChainsBuddy\bin\Debug\10.UseYourChainsBuddy.pdb
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\10.UseYourChainsBuddy\obj\Debug\10.UseYourChainsBuddy.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\10.UseYourChainsBuddy\obj\Debug\10.UseYourChainsBuddy.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\10.UseYourChainsBuddy\obj\Debug\10.UseYourChainsBuddy.pdb

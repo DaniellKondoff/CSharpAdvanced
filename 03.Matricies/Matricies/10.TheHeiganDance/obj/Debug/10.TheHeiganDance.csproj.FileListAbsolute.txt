@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\10.TheHeiganDance\bin\Debug\10.TheHeiganDance.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\10.TheHeiganDance\bin\Debug\10.TheHeiganDance.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\10.TheHeiganDance\bin\Debug\10.TheHeiganDance.pdb
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\10.TheHeiganDance\obj\Debug\10.TheHeiganDance.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\10.TheHeiganDance\obj\Debug\10.TheHeiganDance.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\10.TheHeiganDance\obj\Debug\10.TheHeiganDance.pdb

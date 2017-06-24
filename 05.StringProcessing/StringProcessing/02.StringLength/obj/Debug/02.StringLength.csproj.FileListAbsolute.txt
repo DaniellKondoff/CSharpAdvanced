@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\02.StringLength\bin\Debug\02.StringLength.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\02.StringLength\bin\Debug\02.StringLength.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\02.StringLength\bin\Debug\02.StringLength.pdb
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\02.StringLength\obj\Debug\02.StringLength.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\02.StringLength\obj\Debug\02.StringLength.pdb

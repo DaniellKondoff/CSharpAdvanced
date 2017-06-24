@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\11.LogsAggregator\bin\Debug\11.LogsAggregator.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\11.LogsAggregator\bin\Debug\11.LogsAggregator.exe
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\11.LogsAggregator\bin\Debug\11.LogsAggregator.pdb
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\11.LogsAggregator\obj\Debug\11.LogsAggregator.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\11.LogsAggregator\obj\Debug\11.LogsAggregator.exe
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\11.LogsAggregator\obj\Debug\11.LogsAggregator.pdb

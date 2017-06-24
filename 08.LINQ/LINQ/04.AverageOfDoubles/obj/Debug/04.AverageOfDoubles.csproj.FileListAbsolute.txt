@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\04.AverageOfDoubles\bin\Debug\04.AverageOfDoubles.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\04.AverageOfDoubles\bin\Debug\04.AverageOfDoubles.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\04.AverageOfDoubles\bin\Debug\04.AverageOfDoubles.pdb
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\04.AverageOfDoubles\obj\Debug\04.AverageOfDoubles.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\04.AverageOfDoubles\obj\Debug\04.AverageOfDoubles.pdb

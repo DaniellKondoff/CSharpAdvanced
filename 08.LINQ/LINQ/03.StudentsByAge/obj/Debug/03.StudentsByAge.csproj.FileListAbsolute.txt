@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\03.StudentsByAge\bin\Debug\03.StudentsByAge.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\03.StudentsByAge\bin\Debug\03.StudentsByAge.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\03.StudentsByAge\bin\Debug\03.StudentsByAge.pdb
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\03.StudentsByAge\obj\Debug\03.StudentsByAge.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\03.StudentsByAge\obj\Debug\03.StudentsByAge.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\03.StudentsByAge\obj\Debug\03.StudentsByAge.pdb

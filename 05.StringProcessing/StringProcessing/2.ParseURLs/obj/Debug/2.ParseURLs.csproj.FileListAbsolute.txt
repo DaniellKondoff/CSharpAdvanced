@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\2.ParseURLs\bin\Debug\2.ParseURLs.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\2.ParseURLs\bin\Debug\2.ParseURLs.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\2.ParseURLs\bin\Debug\2.ParseURLs.pdb
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\2.ParseURLs\obj\Debug\2.ParseURLs.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\2.ParseURLs\obj\Debug\2.ParseURLs.pdb
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\2.ParseURLs\obj\Debug\2.ParseURLs.csprojResolveAssemblyReference.cache

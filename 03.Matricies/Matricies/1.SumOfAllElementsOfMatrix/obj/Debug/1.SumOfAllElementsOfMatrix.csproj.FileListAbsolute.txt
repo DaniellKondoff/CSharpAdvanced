@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\1.SumOfAllElementsOfMatrix\bin\Debug\1.SumOfAllElementsOfMatrix.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\1.SumOfAllElementsOfMatrix\bin\Debug\1.SumOfAllElementsOfMatrix.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\1.SumOfAllElementsOfMatrix\bin\Debug\1.SumOfAllElementsOfMatrix.pdb
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\1.SumOfAllElementsOfMatrix\obj\Debug\1.SumOfAllElementsOfMatrix.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\1.SumOfAllElementsOfMatrix\obj\Debug\1.SumOfAllElementsOfMatrix.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\1.SumOfAllElementsOfMatrix\obj\Debug\1.SumOfAllElementsOfMatrix.pdb

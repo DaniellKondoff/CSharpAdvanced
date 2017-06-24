@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\12.LittleJohn\bin\Debug\12.LittleJohn.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\12.LittleJohn\bin\Debug\12.LittleJohn.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\12.LittleJohn\bin\Debug\12.LittleJohn.pdb
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\12.LittleJohn\obj\Debug\12.LittleJohn.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\12.LittleJohn\obj\Debug\12.LittleJohn.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\12.LittleJohn\obj\Debug\12.LittleJohn.pdb

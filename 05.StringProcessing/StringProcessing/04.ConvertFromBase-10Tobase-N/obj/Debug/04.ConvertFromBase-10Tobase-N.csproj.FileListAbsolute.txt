@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\04.ConvertFromBase-10Tobase-N\bin\Debug\04.ConvertFromBase-10Tobase-N.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\04.ConvertFromBase-10Tobase-N\bin\Debug\04.ConvertFromBase-10Tobase-N.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\04.ConvertFromBase-10Tobase-N\bin\Debug\04.ConvertFromBase-10Tobase-N.pdb
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\04.ConvertFromBase-10Tobase-N\obj\Debug\04.ConvertFromBase-10Tobase-N.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\04.ConvertFromBase-10Tobase-N\obj\Debug\04.ConvertFromBase-10Tobase-N.pdb

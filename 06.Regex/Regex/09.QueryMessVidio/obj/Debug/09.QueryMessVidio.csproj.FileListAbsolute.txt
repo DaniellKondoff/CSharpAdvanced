@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\09.QueryMessVidio\bin\Debug\09.QueryMessVidio.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\09.QueryMessVidio\bin\Debug\09.QueryMessVidio.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\09.QueryMessVidio\bin\Debug\09.QueryMessVidio.pdb
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\09.QueryMessVidio\obj\Debug\09.QueryMessVidio.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\09.QueryMessVidio\obj\Debug\09.QueryMessVidio.pdb

@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\SampleExam13June16\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\SampleExam13June16\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\VisualStudio2015\Projects\C#_Advance\SampleExam13June16\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\VisualStudio2015\Projects\C#_Advance\SampleExam13June16\ConsoleApplication1\ConsoleApplication1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\SampleExam13June16\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\VisualStudio2015\Projects\C#_Advance\SampleExam13June16\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

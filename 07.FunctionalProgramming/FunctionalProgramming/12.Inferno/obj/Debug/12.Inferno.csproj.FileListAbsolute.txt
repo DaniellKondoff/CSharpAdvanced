@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\12.Inferno\bin\Debug\12.Inferno.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\12.Inferno\bin\Debug\12.Inferno.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\12.Inferno\bin\Debug\12.Inferno.pdb
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\12.Inferno\obj\Debug\12.Inferno.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\12.Inferno\obj\Debug\12.Inferno.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\12.Inferno\obj\Debug\12.Inferno.pdb

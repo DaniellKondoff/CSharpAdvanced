@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.pdb
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.pdb

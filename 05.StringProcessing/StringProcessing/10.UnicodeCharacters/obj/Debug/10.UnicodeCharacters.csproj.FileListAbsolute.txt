@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.pdb
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.pdb

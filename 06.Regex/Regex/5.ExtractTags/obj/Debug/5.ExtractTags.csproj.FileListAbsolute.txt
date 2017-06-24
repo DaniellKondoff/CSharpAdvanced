@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\5.ExtractTags\bin\Debug\5.ExtractTags.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\5.ExtractTags\bin\Debug\5.ExtractTags.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\5.ExtractTags\bin\Debug\5.ExtractTags.pdb
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\5.ExtractTags\obj\Debug\5.ExtractTags.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\5.ExtractTags\obj\Debug\5.ExtractTags.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\5.ExtractTags\obj\Debug\5.ExtractTags.pdb

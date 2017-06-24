@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\02.UpperStrings\bin\Debug\02.UpperStrings.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\02.UpperStrings\bin\Debug\02.UpperStrings.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\02.UpperStrings\bin\Debug\02.UpperStrings.pdb
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\02.UpperStrings\obj\Debug\02.UpperStrings.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\02.UpperStrings\obj\Debug\02.UpperStrings.pdb

@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\02.SumNumbers\bin\Debug\02.SumNumbers.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\02.SumNumbers\bin\Debug\02.SumNumbers.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\02.SumNumbers\bin\Debug\02.SumNumbers.pdb
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\02.SumNumbers\obj\Debug\02.SumNumbers.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\02.SumNumbers\obj\Debug\02.SumNumbers.pdb

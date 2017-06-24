@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\7.DirectoryTraversal\bin\Debug\7.DirectoryTraversal.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\7.DirectoryTraversal\bin\Debug\7.DirectoryTraversal.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\7.DirectoryTraversal\bin\Debug\7.DirectoryTraversal.pdb
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\7.DirectoryTraversal\obj\Debug\7.DirectoryTraversal.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\7.DirectoryTraversal\obj\Debug\7.DirectoryTraversal.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\7.DirectoryTraversal\obj\Debug\7.DirectoryTraversal.pdb

@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\8.ExtractQuotations\bin\Debug\8.ExtractQuotations.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\8.ExtractQuotations\bin\Debug\8.ExtractQuotations.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\8.ExtractQuotations\bin\Debug\8.ExtractQuotations.pdb
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\8.ExtractQuotations\obj\Debug\8.ExtractQuotations.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\8.ExtractQuotations\obj\Debug\8.ExtractQuotations.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\8.ExtractQuotations\obj\Debug\8.ExtractQuotations.pdb

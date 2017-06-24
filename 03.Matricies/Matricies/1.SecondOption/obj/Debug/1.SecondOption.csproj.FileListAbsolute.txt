@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\1.SecondOption\bin\Debug\1.SecondOption.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\1.SecondOption\bin\Debug\1.SecondOption.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\1.SecondOption\bin\Debug\1.SecondOption.pdb
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\1.SecondOption\obj\Debug\1.SecondOption.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\1.SecondOption\obj\Debug\1.SecondOption.pdb

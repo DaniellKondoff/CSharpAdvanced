@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\13.TriFunction\bin\Debug\13.TriFunction.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\13.TriFunction\bin\Debug\13.TriFunction.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\13.TriFunction\bin\Debug\13.TriFunction.pdb
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\13.TriFunction\obj\Debug\13.TriFunction.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\13.TriFunction\obj\Debug\13.TriFunction.pdb

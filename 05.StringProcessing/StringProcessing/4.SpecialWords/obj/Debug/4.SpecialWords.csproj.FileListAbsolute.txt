@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\4.SpecialWords\bin\Debug\4.SpecialWords.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\4.SpecialWords\bin\Debug\4.SpecialWords.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\4.SpecialWords\bin\Debug\4.SpecialWords.pdb
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\4.SpecialWords\obj\Debug\4.SpecialWords.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\4.SpecialWords\obj\Debug\4.SpecialWords.pdb

@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\10.GroupByGroup\bin\Debug\10.GroupByGroup.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\10.GroupByGroup\bin\Debug\10.GroupByGroup.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\10.GroupByGroup\bin\Debug\10.GroupByGroup.pdb
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\10.GroupByGroup\obj\Debug\10.GroupByGroup.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\10.GroupByGroup\obj\Debug\10.GroupByGroup.pdb

@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\ExamPreparation2\ExamPreparation1\4.AshesRoses\bin\Debug\4.AshesRoses.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\ExamPreparation2\ExamPreparation1\4.AshesRoses\bin\Debug\4.AshesRoses.exe
+D:\VisualStudio2015\Projects\C#_Advance\ExamPreparation2\ExamPreparation1\4.AshesRoses\bin\Debug\4.AshesRoses.pdb
+D:\VisualStudio2015\Projects\C#_Advance\ExamPreparation2\ExamPreparation1\4.AshesRoses\obj\Debug\4.AshesRoses.exe
+D:\VisualStudio2015\Projects\C#_Advance\ExamPreparation2\ExamPreparation1\4.AshesRoses\obj\Debug\4.AshesRoses.pdb

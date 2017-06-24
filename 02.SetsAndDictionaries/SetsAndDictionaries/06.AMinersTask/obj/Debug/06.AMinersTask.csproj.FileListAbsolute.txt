@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\06.AMinersTask\bin\Debug\06.AMinersTask.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\06.AMinersTask\bin\Debug\06.AMinersTask.exe
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\06.AMinersTask\bin\Debug\06.AMinersTask.pdb
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\06.AMinersTask\obj\Debug\06.AMinersTask.exe
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\06.AMinersTask\obj\Debug\06.AMinersTask.pdb

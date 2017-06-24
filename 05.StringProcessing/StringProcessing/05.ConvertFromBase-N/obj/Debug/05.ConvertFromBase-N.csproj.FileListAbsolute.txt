@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\05.ConvertFromBase-N\bin\Debug\05.ConvertFromBase-N.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\05.ConvertFromBase-N\bin\Debug\05.ConvertFromBase-N.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\05.ConvertFromBase-N\bin\Debug\05.ConvertFromBase-N.pdb
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\05.ConvertFromBase-N\obj\Debug\05.ConvertFromBase-N.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\05.ConvertFromBase-N\obj\Debug\05.ConvertFromBase-N.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\05.ConvertFromBase-N\obj\Debug\05.ConvertFromBase-N.pdb

@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\05.FilterStudentsByEmailDomain\bin\Debug\05.FilterStudentsByEmailDomain.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\05.FilterStudentsByEmailDomain\bin\Debug\05.FilterStudentsByEmailDomain.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\05.FilterStudentsByEmailDomain\bin\Debug\05.FilterStudentsByEmailDomain.pdb
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\05.FilterStudentsByEmailDomain\obj\Debug\05.FilterStudentsByEmailDomain.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\05.FilterStudentsByEmailDomain\obj\Debug\05.FilterStudentsByEmailDomain.pdb

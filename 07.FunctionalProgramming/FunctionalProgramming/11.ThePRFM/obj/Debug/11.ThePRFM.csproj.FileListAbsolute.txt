@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\11.ThePRFM\bin\Debug\11.ThePRFM.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\11.ThePRFM\bin\Debug\11.ThePRFM.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\11.ThePRFM\bin\Debug\11.ThePRFM.pdb
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\11.ThePRFM\obj\Debug\11.ThePRFM.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\11.ThePRFM\obj\Debug\11.ThePRFM.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\11.ThePRFM\obj\Debug\11.ThePRFM.pdb

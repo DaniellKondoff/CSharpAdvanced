@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\2.LineNumbers\bin\Debug\2.LineNumbers.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\2.LineNumbers\bin\Debug\2.LineNumbers.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\2.LineNumbers\bin\Debug\2.LineNumbers.pdb
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\2.LineNumbers\obj\Debug\2.LineNumbers.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\2.LineNumbers\obj\Debug\2.LineNumbers.pdb

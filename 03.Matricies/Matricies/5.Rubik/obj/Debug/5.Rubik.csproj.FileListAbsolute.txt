@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\5.Rubik\bin\Debug\5.Rubik.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\5.Rubik\bin\Debug\5.Rubik.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\5.Rubik\bin\Debug\5.Rubik.pdb
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\5.Rubik\obj\Debug\5.Rubik.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\5.Rubik\obj\Debug\5.Rubik.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\5.Rubik\obj\Debug\5.Rubik.pdb

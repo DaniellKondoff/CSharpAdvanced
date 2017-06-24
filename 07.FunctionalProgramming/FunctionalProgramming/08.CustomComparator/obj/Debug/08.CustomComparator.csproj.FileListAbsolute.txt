@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\08.CustomComparator\bin\Debug\08.CustomComparator.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\08.CustomComparator\bin\Debug\08.CustomComparator.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\08.CustomComparator\bin\Debug\08.CustomComparator.pdb
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\08.CustomComparator\obj\Debug\08.CustomComparator.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\08.CustomComparator\obj\Debug\08.CustomComparator.pdb

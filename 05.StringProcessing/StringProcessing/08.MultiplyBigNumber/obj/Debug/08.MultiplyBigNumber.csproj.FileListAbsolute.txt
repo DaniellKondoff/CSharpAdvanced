@@ -1,0 +1,1 @@
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\08.MultiplyBigNumber\bin\Debug\08.MultiplyBigNumber.exe.config

@@ -1,0 +1,1 @@
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\07.SumBigNumbers\bin\Debug\07.SumBigNumbers.exe.config

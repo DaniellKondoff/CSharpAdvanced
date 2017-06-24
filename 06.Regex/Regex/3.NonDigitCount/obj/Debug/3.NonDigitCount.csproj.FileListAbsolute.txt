@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\3.NonDigitCount\bin\Debug\3.NonDigitCount.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\3.NonDigitCount\bin\Debug\3.NonDigitCount.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\3.NonDigitCount\bin\Debug\3.NonDigitCount.pdb
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\3.NonDigitCount\obj\Debug\3.NonDigitCount.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\3.NonDigitCount\obj\Debug\3.NonDigitCount.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\3.NonDigitCount\obj\Debug\3.NonDigitCount.pdb

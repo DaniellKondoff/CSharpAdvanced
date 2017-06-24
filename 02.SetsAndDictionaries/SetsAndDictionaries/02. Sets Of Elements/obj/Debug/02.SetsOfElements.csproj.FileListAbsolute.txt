@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\02. Sets Of Elements\bin\Debug\_02.Sets_Of_Elements.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\02. Sets Of Elements\bin\Debug\_02.Sets_Of_Elements.exe
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\02. Sets Of Elements\bin\Debug\_02.Sets_Of_Elements.pdb
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\02. Sets Of Elements\obj\Debug\_02.Sets_Of_Elements.exe
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\02. Sets Of Elements\obj\Debug\_02.Sets_Of_Elements.pdb

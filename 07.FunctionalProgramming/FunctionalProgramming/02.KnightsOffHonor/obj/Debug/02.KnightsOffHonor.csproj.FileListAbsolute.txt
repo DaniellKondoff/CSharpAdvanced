@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\02.KnightsOffHonor\bin\Debug\02.KnightsOffHonor.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\02.KnightsOffHonor\bin\Debug\02.KnightsOffHonor.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\02.KnightsOffHonor\bin\Debug\02.KnightsOffHonor.pdb
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\02.KnightsOffHonor\obj\Debug\02.KnightsOffHonor.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\02.KnightsOffHonor\obj\Debug\02.KnightsOffHonor.pdb

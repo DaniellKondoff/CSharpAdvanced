@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\13.OfficeStuff\bin\Debug\13.OfficeStuff.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\13.OfficeStuff\bin\Debug\13.OfficeStuff.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\13.OfficeStuff\bin\Debug\13.OfficeStuff.pdb
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\13.OfficeStuff\obj\Debug\13.OfficeStuff.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\13.OfficeStuff\obj\Debug\13.OfficeStuff.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\13.OfficeStuff\obj\Debug\13.OfficeStuff.pdb

@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\04.AddVAT\bin\Debug\04.AddVAT.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\04.AddVAT\bin\Debug\04.AddVAT.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\04.AddVAT\bin\Debug\04.AddVAT.pdb
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\04.AddVAT\obj\Debug\04.AddVAT.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\04.AddVAT\obj\Debug\04.AddVAT.pdb

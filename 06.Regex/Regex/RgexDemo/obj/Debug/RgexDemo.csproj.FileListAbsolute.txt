@@ -1,0 +1,1 @@
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\RgexDemo\bin\Debug\RgexDemo.exe.config

@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\5.SlicingFile\bin\Debug\5.SlicingFile.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\5.SlicingFile\bin\Debug\5.SlicingFile.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\5.SlicingFile\bin\Debug\5.SlicingFile.pdb
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\5.SlicingFile\obj\Debug\5.SlicingFile.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\5.SlicingFile\obj\Debug\5.SlicingFile.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\5.SlicingFile\obj\Debug\5.SlicingFile.pdb

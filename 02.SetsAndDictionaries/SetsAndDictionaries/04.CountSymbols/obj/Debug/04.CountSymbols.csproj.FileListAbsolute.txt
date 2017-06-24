@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\04.CountSymbols\bin\Debug\04.CountSymbols.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\04.CountSymbols\bin\Debug\04.CountSymbols.exe
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\04.CountSymbols\bin\Debug\04.CountSymbols.pdb
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\04.CountSymbols\obj\Debug\04.CountSymbols.exe
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\04.CountSymbols\obj\Debug\04.CountSymbols.pdb

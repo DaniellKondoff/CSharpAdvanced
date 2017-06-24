@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\4.MaximalSum\bin\Debug\4.MaximalSum.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\4.MaximalSum\bin\Debug\4.MaximalSum.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\4.MaximalSum\bin\Debug\4.MaximalSum.pdb
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\4.MaximalSum\obj\Debug\4.MaximalSum.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\4.MaximalSum\obj\Debug\4.MaximalSum.pdb

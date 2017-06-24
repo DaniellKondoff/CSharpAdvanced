@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\07.ValidUsernames\bin\Debug\07.ValidUsernames.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\07.ValidUsernames\bin\Debug\07.ValidUsernames.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\07.ValidUsernames\bin\Debug\07.ValidUsernames.pdb
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\07.ValidUsernames\obj\Debug\07.ValidUsernames.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\07.ValidUsernames\obj\Debug\07.ValidUsernames.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\07.ValidUsernames\obj\Debug\07.ValidUsernames.pdb

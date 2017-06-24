@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\bin\Debug\03.CountUppercaseWords.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\bin\Debug\03.CountUppercaseWords.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\bin\Debug\03.CountUppercaseWords.pdb
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\obj\Debug\03.CountUppercaseWords.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\obj\Debug\03.CountUppercaseWords.pdb

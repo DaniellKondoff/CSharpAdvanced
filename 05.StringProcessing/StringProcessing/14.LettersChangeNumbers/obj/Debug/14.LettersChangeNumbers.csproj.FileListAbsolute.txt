@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\14.LettersChangeNumbers\bin\Debug\14.LettersChangeNumbers.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\14.LettersChangeNumbers\bin\Debug\14.LettersChangeNumbers.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\14.LettersChangeNumbers\bin\Debug\14.LettersChangeNumbers.pdb
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\14.LettersChangeNumbers\obj\Debug\14.LettersChangeNumbers.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\14.LettersChangeNumbers\obj\Debug\14.LettersChangeNumbers.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\14.LettersChangeNumbers\obj\Debug\14.LettersChangeNumbers.pdb

@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.pdb
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.exe
+D:\VisualStudio2015\Projects\C#_Advance\07.FunctionalProgramming\FunctionalProgramming\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.pdb

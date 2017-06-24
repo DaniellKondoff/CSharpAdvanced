@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\02. MatchPhoneNumber\bin\Debug\_02.MatchPhoneNumber.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\02. MatchPhoneNumber\bin\Debug\_02.MatchPhoneNumber.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\02. MatchPhoneNumber\bin\Debug\_02.MatchPhoneNumber.pdb
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\02. MatchPhoneNumber\obj\Debug\02. MatchPhoneNumber.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\02. MatchPhoneNumber\obj\Debug\_02.MatchPhoneNumber.exe
+D:\VisualStudio2015\Projects\C#_Advance\06.Regex\Regex\02. MatchPhoneNumber\obj\Debug\_02.MatchPhoneNumber.pdb

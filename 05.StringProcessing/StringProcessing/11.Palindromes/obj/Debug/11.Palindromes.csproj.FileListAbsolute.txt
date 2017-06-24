@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\11.Palindromes\bin\Debug\11.Palindromes.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\11.Palindromes\bin\Debug\11.Palindromes.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\11.Palindromes\bin\Debug\11.Palindromes.pdb
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\11.Palindromes\obj\Debug\11.Palindromes.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\11.Palindromes\obj\Debug\11.Palindromes.pdb

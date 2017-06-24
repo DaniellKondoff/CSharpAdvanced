@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\06.FilterStudentsByPhone\bin\Debug\06.FilterStudentsByPhone.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\06.FilterStudentsByPhone\bin\Debug\06.FilterStudentsByPhone.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\06.FilterStudentsByPhone\bin\Debug\06.FilterStudentsByPhone.pdb
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\06.FilterStudentsByPhone\obj\Debug\06.FilterStudentsByPhone.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\06.FilterStudentsByPhone\obj\Debug\06.FilterStudentsByPhone.pdb

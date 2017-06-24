@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\8.FullDirectoryTraversal\bin\Debug\8.FullDirectoryTraversal.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\8.FullDirectoryTraversal\bin\Debug\8.FullDirectoryTraversal.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\8.FullDirectoryTraversal\bin\Debug\8.FullDirectoryTraversal.pdb
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\8.FullDirectoryTraversal\obj\Debug\8.FullDirectoryTraversal.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Streams\8.FullDirectoryTraversal\obj\Debug\8.FullDirectoryTraversal.pdb

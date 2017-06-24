@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\3.ParseTags\bin\Debug\3.ParseTags.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\3.ParseTags\bin\Debug\3.ParseTags.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\3.ParseTags\bin\Debug\3.ParseTags.pdb
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\3.ParseTags\obj\Debug\3.ParseTags.exe
+D:\VisualStudio2015\Projects\C#_Advance\05.StringProcessing\StringProcessing\3.ParseTags\obj\Debug\3.ParseTags.pdb

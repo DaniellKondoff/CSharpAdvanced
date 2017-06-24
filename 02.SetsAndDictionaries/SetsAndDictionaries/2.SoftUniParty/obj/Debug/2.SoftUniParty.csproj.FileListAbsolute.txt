@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\2.SoftUniParty\bin\Debug\2.SoftUniParty.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\2.SoftUniParty\bin\Debug\2.SoftUniParty.exe
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\2.SoftUniParty\bin\Debug\2.SoftUniParty.pdb
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\2.SoftUniParty\obj\Debug\2.SoftUniParty.exe
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\2.SoftUniParty\obj\Debug\2.SoftUniParty.pdb
+D:\VisualStudio2015\Projects\C#_Advance\02.SetsAndDictionaries\SetsAndDictionaries\2.SoftUniParty\obj\Debug\2.SoftUniParty.csprojResolveAssemblyReference.cache

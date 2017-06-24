@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\02.StudentsByFirstAndLastName\bin\Debug\02.StudentsByFirstAndLastName.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\02.StudentsByFirstAndLastName\bin\Debug\02.StudentsByFirstAndLastName.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\02.StudentsByFirstAndLastName\bin\Debug\02.StudentsByFirstAndLastName.pdb
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\02.StudentsByFirstAndLastName\obj\Debug\02.StudentsByFirstAndLastName.exe
+D:\VisualStudio2015\Projects\C#_Advance\08.LINQ\LINQ\02.StudentsByFirstAndLastName\obj\Debug\02.StudentsByFirstAndLastName.pdb

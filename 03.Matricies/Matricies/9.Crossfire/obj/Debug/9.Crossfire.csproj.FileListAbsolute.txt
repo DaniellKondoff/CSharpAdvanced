@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\9.Crossfire\bin\Debug\9.Crossfire.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\9.Crossfire\bin\Debug\9.Crossfire.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\9.Crossfire\bin\Debug\9.Crossfire.pdb
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\9.Crossfire\obj\Debug\9.Crossfire.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\9.Crossfire\obj\Debug\9.Crossfire.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\9.Crossfire\obj\Debug\9.Crossfire.pdb

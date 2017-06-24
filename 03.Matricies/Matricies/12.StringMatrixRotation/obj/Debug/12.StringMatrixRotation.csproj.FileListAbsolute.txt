@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\12.StringMatrixRotation\bin\Debug\12.StringMatrixRotation.exe.config
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\12.StringMatrixRotation\bin\Debug\12.StringMatrixRotation.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\12.StringMatrixRotation\bin\Debug\12.StringMatrixRotation.pdb
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\12.StringMatrixRotation\obj\Debug\12.StringMatrixRotation.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\12.StringMatrixRotation\obj\Debug\12.StringMatrixRotation.exe
+D:\VisualStudio2015\Projects\C#_Advance\03.Matricies\Matricies\12.StringMatrixRotation\obj\Debug\12.StringMatrixRotation.pdb
